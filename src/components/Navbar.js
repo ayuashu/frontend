@@ -11,7 +11,7 @@ const Navbar = () => {
             <div>
             <p>Option A</p>
             <p>Option B</p>
-            <p>Option Cs</p>
+            <p>Option C</p>
             </div>
         )}
         </div>
