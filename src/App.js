@@ -1,11 +1,11 @@
-import './App.css';
 import Intro from './components/Intro';
 import Navbar from './components/Navbar';
+import Search from './components/Search';
 
 function App() {
   return (
     <>
-      <header><Navbar/></header>
+      <Navbar/>
       <Intro/>
     </>
   );
